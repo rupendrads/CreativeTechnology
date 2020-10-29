@@ -1,0 +1,43 @@
+E:\Rupendra\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.exe
+E:\Rupendra\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.deps.json
+E:\Rupendra\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.runtimeconfig.json
+E:\Rupendra\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.runtimeconfig.dev.json
+E:\Rupendra\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.dll
+E:\Rupendra\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.pdb
+E:\Rupendra\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.csprojAssemblyReference.cache
+E:\Rupendra\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.AssemblyInfoInputs.cache
+E:\Rupendra\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.AssemblyInfo.cs
+E:\Rupendra\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.csproj.CoreCompileInputs.cache
+E:\Rupendra\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.dll
+E:\Rupendra\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.pdb
+E:\Rupendra\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.genruntimeconfig.cache
+E:\Rupendra\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.exe
+E:\Rupendra\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.deps.json
+E:\Rupendra\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.runtimeconfig.json
+E:\Rupendra\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.runtimeconfig.dev.json
+E:\Rupendra\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.dll
+E:\Rupendra\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.pdb
+E:\Rupendra\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.csprojAssemblyReference.cache
+E:\Rupendra\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.AssemblyInfoInputs.cache
+E:\Rupendra\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.AssemblyInfo.cs
+E:\Rupendra\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.csproj.CoreCompileInputs.cache
+E:\Rupendra\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.dll
+E:\Rupendra\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.pdb
+E:\Rupendra\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.genruntimeconfig.cache
+E:\Rupendra\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\Ninject.dll
+E:\Rupendra\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.csproj.CopyComplete
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.exe
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.deps.json
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.runtimeconfig.json
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.runtimeconfig.dev.json
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.dll
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\stringcalc.pdb
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\bin\Debug\netcoreapp3.1\Ninject.dll
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.csprojAssemblyReference.cache
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.AssemblyInfoInputs.cache
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.AssemblyInfo.cs
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.csproj.CoreCompileInputs.cache
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.csproj.CopyComplete
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.dll
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.pdb
+D:\Rupendra\StringCalculator (1)\StringCalculator\stringcalc\obj\Debug\netcoreapp3.1\stringcalc.genruntimeconfig.cache
